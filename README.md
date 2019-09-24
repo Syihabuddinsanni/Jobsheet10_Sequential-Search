@@ -21,8 +21,9 @@
 # 𝟙_ｖ２
 
 # ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet10_Sequential-Search/blob/master/TP1_2.png)
-# Mengapa Bisa error ? 
-_Karena Angka yang di inputkan user tidak ada di dalam index array nya_
+# Mengapa Tidak ditemukan ? 
+_Karena Angka yang di inputkan user tidak ada di dalam index array nya maka yang di keluarkan adalah System.out("Maap
+Data tidak ditemukan")_
 
 # 𝟚
 # ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet10_Sequential-Search/blob/master/TP2.png)
